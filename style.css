@@ -17,6 +17,9 @@
     max-width: 400px;
     flex-wrap: wrap;
   }
+  h1{
+    
+  }
   .box {
     width: 20px;
     height: 20px;
